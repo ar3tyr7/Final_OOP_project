@@ -1,5 +1,5 @@
 package calculator;
-
+// Класс калькулятор содержит в себе базовые методы вычисления 
 public final class Calculator implements ICalculable {
 
     private int primaryArg;

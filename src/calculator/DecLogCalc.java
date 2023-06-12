@@ -1,4 +1,6 @@
 package calculator;
+// Добавление класса декоратора (паттерн), который объединяет в себе основные методы калькулятора 
+//и добавляет логирование
 
 public class DecLogCalc implements ICalculable{
 private ICalculable decorated;

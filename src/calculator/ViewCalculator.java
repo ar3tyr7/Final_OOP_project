@@ -1,7 +1,7 @@
 package calculator;
 
 import java.util.Scanner;
-
+// View Калькулятора
 import calculator.ComplexNumber.ICompCalcFactory;
 
 public class ViewCalculator {

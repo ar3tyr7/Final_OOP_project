@@ -1,5 +1,5 @@
 package calculator;
-
+//Создание фабрики с подключением логирования
 public class DecLogCalcFactory implements ICalculableFactory {
     private ILoggable logger;
     public DecLogCalcFactory(ILoggable logger) {
