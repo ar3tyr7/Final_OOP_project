@@ -1,5 +1,5 @@
 package calculator.ComplexNumber;
-
+// Отдельное view для комплексного калькулятора 
 import java.util.Scanner;
 
 public class ViewCompCalc {

@@ -1,5 +1,5 @@
 package calculator.ComplexNumber;
-
+// Добавление класса комплексного числа
 
 public class ComplexNumber  {
     double real;

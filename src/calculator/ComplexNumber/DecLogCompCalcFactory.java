@@ -1,5 +1,5 @@
 package calculator.ComplexNumber;
-
+// Фабрика деоратора.
 import calculator.ILoggable;
 
 public class DecLogCompCalcFactory implements ICompCalcFactory {

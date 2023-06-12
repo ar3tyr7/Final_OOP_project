@@ -1,5 +1,5 @@
 package calculator.ComplexNumber;
-
+// Перечень методов для основных действий с комплексными числами для калькулятора. 
 import calculator.ILoggable;
 
 public class CompCalculator implements ICompCalculable{

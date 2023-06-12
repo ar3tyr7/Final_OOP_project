@@ -1,5 +1,5 @@
 package calculator.ComplexNumber;
-
+// Добавление паттерна декоратора для объединения калькулятора и логирования
 import calculator.ILoggable;
 
 public class DecLogCompCalc implements ICompCalculable{
